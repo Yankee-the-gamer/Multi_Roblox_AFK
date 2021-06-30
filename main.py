@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import subprocess
 from win32 import win32gui
 import time
@@ -117,5 +116,3 @@ if __name__ == "__main__":
     else:
         sys.exit()
 
-
->>>>>>> d180420d9a6cde5e985f365fa828f66ade3010ef
