@@ -12,3 +12,5 @@ make sure to run handle.exe first and accept it's terms and conditions then run 
 run main.exe as admin wait for it to ask you to run the autoclicker before being able to run more games
 
 more detailed [instructions](https://youtu.be/zm_GHN7llyY)
+
++ Made the click function better by saving the last mouse position and moving the mouse there after the program is done clicking.
